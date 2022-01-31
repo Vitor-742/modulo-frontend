@@ -1,0 +1,13 @@
+.pokeBtn {
+    border: 3px solid red;
+    border-radius: 10px;
+    height: 40px;
+    width: 90px;
+    background-image: linear-gradient(to top, red, white, white) ;
+}
+
+.botoes {
+    display: flex;
+    flex-grow: 1;
+    justify-content: space-around;
+}

@@ -1,0 +1,18 @@
+.pokemon {
+    border: 1px black solid;
+    border-radius: 20px;
+    display: flex;
+    min-width: 100px;
+    flex-grow: 1;
+    flex-basis: 200px;
+    margin: auto;
+}
+
+.tabela {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+ul {
+    list-style: none;
+}
